@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <Outputpin.h>
 
 namespace edwinspire
 {
