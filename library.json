@@ -1,0 +1,26 @@
+{
+    "name": "arduinoOutputpin",
+    "version": "1.0.0",
+    "description": "Handle output pin",
+    "keywords": "arduino, esp32, esp8266, output",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/edwinspire/arduinoOutputpin.git"
+    },
+    "authors":
+    [
+      {
+        "name": "edwinspire",
+        "email": "edwinspire@gmail.com",
+        "url": "https://github.com/edwinspire/"
+      }
+    ],
+    "license": "LGPL-2.1",
+    "homepage": "https://github.com/edwinspire/arduinoOutputpin.git",
+    "dependencies": {
+      
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
